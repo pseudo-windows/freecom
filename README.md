@@ -13,3 +13,5 @@ https://github.com/FDOS/freecom
 [Changes since last official release](CHANGED)
 
 [How to compile FreeCOM](docs/compile.txt)
+<br>
+Forked for all those early Windows/MS-DOS fans :-)
