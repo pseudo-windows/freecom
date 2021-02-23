@@ -7,7 +7,7 @@ https://github.com/FDOS/freecom
 <!-- Upstream Master -->
 <!-- [![Build](https://github.com/FDOS/freecom/workflows/Build/badge.svg)](https://github.com/FDOS/freecom/actions) -->
 <!-- Local Branch -->
-[![Build](../../workflows/Build/badge.svg)](../../actions)
+![Build](../../workflows/Build/badge.svg)](../../actions)
 
 #### More information
 [Changes since last official release](CHANGED)
